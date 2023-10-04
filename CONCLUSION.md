@@ -6,4 +6,4 @@ This project was also able to answer some of the questions first posed in the be
 - The vast majority of species were not part of conservation.(5,633 vs 191)
 - Mammals and Birds had the highest percentage of being in protection
 - The singular most observed specie was a Vascular Plant known as Deep-Root Clubmoss or Ground Cedar (Lycopodium tristachyum)
-- 
+- Although Vascular Plants where the most prevenlent, only 1% needed protection
