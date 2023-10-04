@@ -8,7 +8,7 @@ Here are a few questions that this project has sought to answer:
 
 - What is the distribution of conservation status for species?
 - Are certain types of species more likely to be endangered?
-- Which animal is most prevalent amongst parks?
+- Which Species is most prevalent amongst parks?
 
 **Data sources:**
 
